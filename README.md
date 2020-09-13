@@ -4,7 +4,7 @@
 
 ## 快速开始
 
-安装Python 3.7.9,pip,git
+安装Python 3.7.9,pip,git,chromedriver
 
 打开终端输入
 
